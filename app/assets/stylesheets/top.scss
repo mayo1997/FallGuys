@@ -1,0 +1,88 @@
+img{
+  float: right;
+  padding-right: 60px;
+  padding-left: 20px;
+  width: 500px;
+}
+a{
+  text-decoration: none;
+  padding-left: 10px;
+  color: green;
+}
+body{
+  padding: 20px;
+}
+header{
+  margin: 0px;
+  width: 100%;
+  display: inline-block;
+  border-bottom: solid 1px black;
+}
+h1 {
+  font-size: 20px;
+  color: red;
+}
+.header-left{
+  padding-left: 10px;
+  float: left;
+}
+.header-rigth{
+  float: right;
+  padding-top: 10px;
+  padding-right: 10px;
+}
+.header-rigth a{
+  padding-left: 25px;
+}
+.content{
+  padding-top: 10px;
+}
+.descriptioncontent{
+  width: 100%;
+  display: inline-block;
+  padding-bottom: 20px;
+  border-bottom: 1px solid black;
+}
+.descriptioncontent a{
+  font-size: 20px;
+  color: blue;
+}
+.operationcontent{
+  padding-top: 10px;
+  width: 100%;
+  display: inline-block;
+  border-bottom: 1px solid black;
+}
+.operationcontent a{
+  font-size: 20px;
+  color: blue;
+}
+.operation{
+  width: 300px;
+  border: 1px solid black;
+}
+.operation p{
+  text-align: center;
+}
+.mapcontent{
+  padding-top: 10px;
+  width: 100%;
+  display: inline-block;
+  border-bottom: 1px solid black;
+}
+.mapcontent a{
+  font-size: 15px;
+}
+h3,h4{
+  font-size: 20px;
+}
+h5{
+  font-size: 20px;
+}
+h6{
+  font-size: 50px
+}
+.mapcontent p{
+  font-size: 20px;
+  color: blue;
+}
